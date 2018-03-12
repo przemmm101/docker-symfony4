@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 9951102dd26b7c3036b8f3328f7d95b1e8ee0caa Przemysław Mikołajczak <przemmm101@hotmail.com> 1520888536 +0100	clone: from https://github.com/joeymasip/docker-symfony4.git
+9951102dd26b7c3036b8f3328f7d95b1e8ee0caa 3acfc5ee693c216d39eea42ef26f3b6e0ac82c8e Przemysław Mikołajczak <przemmm101@hotmail.com> 1520890693 +0100	commit: Initialize symfony skeleton docker app
